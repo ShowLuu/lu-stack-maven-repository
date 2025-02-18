@@ -213,6 +213,7 @@
                     </execution>
                 </executions>
             </plugin>
+            <!--用户手册：先clean 再install 再deploy-->
             <!--1.作用：将jar deploy(发布)到本地储存库位置(altDeploymentRepository)-->
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
