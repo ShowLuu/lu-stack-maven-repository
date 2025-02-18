@@ -17,6 +17,7 @@
         <module>lu-component-rpc</module>
         <module>lu-component-rpc-proxy</module>
         <module>lu-component-crypto</module>
+        <module>lu-component-devops</module>
     </modules>
 
     <build>
